@@ -9,9 +9,9 @@ Several steps to do:
 2. Use IDEA to create project new from sources (just open newly created folder using IDEA)
 3. Download latest [tomcat]{http://tomcat.apache.org/download-80.cgi}
 4. Create run configuration
-4.1. Open the Run/Debug Configurations dialog (e.g. Run | Edit Configurations).
-4.2. Click +, select Tomcat Server -> Local
-4.3. Click on "Configure" button and configure path to your tomcat server
-4.4. On Deployments add your war artifact (if it's not defined then IDEA will suggest you to fix it, click on "Fix" button and choose to create artifact from Module)
-4.5. Click OK
+  4.1. Open the Run/Debug Configurations dialog (e.g. Run | Edit Configurations).
+  4.2. Click +, select Tomcat Server -> Local
+  4.3. Click on "Configure" button and configure path to your tomcat server
+  4.4. On Deployments add your war artifact (if it's not defined then IDEA will suggest you to fix it, click on "Fix" button and choose to create artifact from Module)
+  4.5. Click OK
 5. Implement unimplemented methods :)
